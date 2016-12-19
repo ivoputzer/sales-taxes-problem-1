@@ -5,7 +5,8 @@
   "description": "sales taxes problem javascript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive"
+		"test": "mocha --recursive",
+		"standard": "standard"
   },
   "repository": {
     "type": "git",
@@ -16,6 +17,12 @@
   ],
   "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
   "license": "MIT",
+	"standard": {
+		"globals": [
+			"describe",
+			"it"
+		]
+	},
   "bugs": {
     "url": "https://github.com/ivoputzer/sales-taxes-problem-js/issues"
   },
