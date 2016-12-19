@@ -1,0 +1,23 @@
+{
+  "name": "sales-taxes-problem-js",
+  "version": "1.0.0",
+	"private": true,
+  "description": "sales taxes problem javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/sales-taxes-problem-js.git"
+  },
+  "keywords": [
+    "kata"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/sales-taxes-problem-js/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/sales-taxes-problem-js#readme"
+}
