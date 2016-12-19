@@ -60,3 +60,7 @@ Total: 74.68
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
 
+## INSTRUCTIONS
+```
+  npm install
+```
