@@ -1,0 +1,3 @@
+[submodule "kata-js"]
+	path = kata-js
+	url = git@github.com:ivoputzer/kata-js.git

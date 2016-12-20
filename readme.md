@@ -1,4 +1,4 @@
-# Sales taxes problem
+# Sales Taxes Problem Kata
 This problem requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using hard coded data within a unit test). You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data.
 
 ## PROBLEM: SALES TAXES
@@ -59,8 +59,9 @@ Total: 74.68
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
-
-## INSTRUCTIONS
+## KATA-JS
 ```
+  git clone --recursive ivoputzer/sales-taxes-problem-kata
+  cd sales-taxes-problem-kata/kata-js
   npm install
 ```
